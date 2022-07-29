@@ -1,0 +1,40 @@
+```{r}
+library(tidyverse)
+library(tidygeocoder)
+library(tidytext)
+library(dplyr)
+library(stringr)
+library(tm)
+library(qdapRegex)
+library(readxl)
+library(tidygeocoder)
+library(arsenal)
+city<- readline(prompt="City:")
+all_rainfall <- read_excel("/Users/JuliaShang/Desktop/rainfall.xlsx")
+optimal_rainfall <- read_excel("/Users/JuliaShang/Desktop/testcrop.xlsx")
+location_rainfall <- all_rainfall %>% filter_all(any_vars(. %in% c(city)))
+crop_list <-c("wheat","corn","apple","barley")
+
+x <- 2
+y <- 1
+z <- 2
+for(i in 1:4){
+  for(i in 1:12){
+   for(i in 1:12) {
+   a <- location_rainfall[1,x]
+   b <- optimal_rainfall [y,z]
+   if(a==b){
+    whichmonth <- names(location_rainfall)[x]
+    whichcrop <- crop_list[y]
+    cat(whichmonth, ":", whichcrop, "\n")
+   }
+   x <- x+1
+   }
+    x<-2
+    z <- z+1
+  }
+  z<-2
+  y <- y+1
+  x <- 2
+}
+```  
