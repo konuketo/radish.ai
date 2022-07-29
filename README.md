@@ -1,6 +1,6 @@
 # radish.ai
 <b/>1.) Description</b><br />
-<br />Data driven crop recommendation system for sustainable agriculture
+<br />Radish.ai is a data driven crop recommendation system for sustainable agriculture.
 
 <br />≿————-　❈　————-≾<br /><br />
 <b/>2.) How it works</b><br />
