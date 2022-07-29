@@ -4,7 +4,7 @@
 
 <br />≿————-　❈　————-≾<br /><br />
 <b/>2.) How it works</b><br />
-<br />Radish.ai takes in, cleans up, and preprocesses datasets of historical temperatures and rainfall around the globe. When a user inputs their location into the IO interface (built with JS, CSS, HTML), ML regression models are run on the environmental features to gain insights into projected environmental conditions for the given location. Next, the projected conditions are put into a KNN algorithm with a dataset of the optimal agricultural conditions of 20 practical crops to recommend the top crops of each month with growing conditions most similar to the projected environmental conditions of the location. These recommendations, along with further insights and information, are presented to the user on the Radish.ai web application.
+<br />Radish.ai takes in, cleans up, and preprocesses datasets (Python) of historical temperatures and rainfall around the globe. When a user inputs their location into the IO interface (built with JS, CSS, HTML), ML regression models (Python) are run on the environmental features to gain insights into projected environmental conditions for the given location. Next, the projected conditions are put into a KNN algorithm (R) with a dataset of the optimal agricultural conditions of 20 practical crops to recommend the top crops of each month with growing conditions most similar to the projected environmental conditions of the location. These recommendations, along with further insights and information, are presented to the user on the Radish.ai web application.
 
 <br />≿————-　❈　————-≾<br /><br />
 <b/>3.) Datasets</b>
