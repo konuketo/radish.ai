@@ -1,0 +1,248 @@
+Abilene 32.95 100.53
+Akron 40.99 80.95
+Albuquerque 34.56 107.03
+Alexandria 39.38 76.99
+Allentown 40.99 74.56
+Amarillo 34.56 101.19
+Anaheim 32.95 117.77
+Anchorage 61.88 151.13
+Ann Arbor 42.59 82.91
+Antioch 37.78 122.03
+Arlington 32.95 96.7
+Arvada 39.38 106.13
+Atlanta 34.56 83.68
+Aurora 39.38 104.05
+Austin 29.74 97.85
+Bakersfield 36.17 119.34
+Baltimore 39.38 76.99
+Baton Rouge 29.74 90.46
+Beaumont 29.74 94.15
+Bellevue 47.42 121.97
+Berkeley 37.78 122.03
+Birmingham 32.95 87.13
+Boston 42.59 72.0
+Bridgeport 40.99 72.43
+Brownsville 26.52 96.72
+Buffalo 42.59 78.55
+Burbank 34.56 118.7
+Cambridge 42.59 72.0
+Cape Coral 26.52 82.39
+Carrollton 32.95 96.7
+Cary 36.17 79.56
+Cedar Rapids 42.59 91.64
+Chandler 32.95 112.02
+Charleston 32.95 79.47
+Charlotte 34.56 81.73
+Chattanooga 34.56 85.62
+Chesapeake 36.17 75.58
+Chicago 42.59 87.27
+Chula Vista 32.95 117.77
+Cincinnati 39.38 85.32
+Clarksville 36.17 87.51
+Clearwater 28.13 82.73
+Cleveland 40.99 80.95
+Colorado Springs 39.38 104.05
+Columbia 34.56 81.73
+Columbus 32.95 85.21
+Concord 37.78 122.03
+Coral Springs 26.52 80.6
+Corona 32.95 117.77
+Corpus Christi 28.13 97.27
+Costa Mesa 32.95 117.77
+Dallas 32.95 96.7
+Dayton 39.38 83.24
+Denton 32.95 96.7
+Denver 39.38 104.05
+Des Moines 40.99 93.73
+Detroit 42.59 82.91
+Downey 34.56 118.7
+Durham 36.17 79.56
+East Los Angeles 34.56 118.7
+Edison 40.99 74.56
+El Monte 34.56 118.7
+El Paso 31.35 105.55
+Elizabeth 40.99 74.56
+Escondido 32.95 117.77
+Eugene 44.2 122.98
+Evansville 37.78 87.46
+Fairfield 37.78 122.03
+Fayetteville 34.56 79.78
+Flint 42.59 82.91
+Fontana 34.56 116.76
+Fort Collins 40.99 104.38
+Fort Lauderdale 26.52 80.6
+Fort Wayne 40.99 85.21
+Fort Worth 32.95 96.7
+Fremont 37.78 122.03
+Fresno 36.17 119.34
+Fullerton 32.95 117.77
+Gainesville 29.74 83.08
+Garden Grove 32.95 117.77
+Garland 32.95 96.7
+Gilbert 32.95 112.02
+Glendale 32.95 112.02
+Grand Prairie 32.95 96.7
+Grand Rapids 42.59 85.09
+Green Bay 44.2 87.2
+Greensboro 36.17 79.56
+Hampton 36.17 75.58
+Hartford 40.99 72.43
+Hayward 37.78 122.03
+Henderson 36.17 115.36
+Hialeah 26.52 80.6
+Highlands Ranch 39.38 104.05
+Hollywood 26.52 80.6
+Houston 29.74 96.0
+Huntington Beach 32.95 117.77
+Huntsville 34.56 85.62
+Independence 39.38 93.64
+Indianapolis 39.38 85.32
+Inglewood 34.56 118.7
+Irvine 32.95 117.77
+Irving 32.95 96.7
+Jackson 32.95 90.96
+Jacksonville 29.74 81.23
+Jersey City 40.99 74.56
+Joliet 40.99 87.34
+Kansas City 39.38 93.64
+Killeen 31.35 98.01
+Knoxville 36.17 83.54
+Lafayette 29.74 92.31
+Lakewood 39.38 104.05
+Lancaster 34.56 118.7
+Lansing 42.59 85.09
+Laredo 28.13 99.09
+Las Vegas 36.17 115.36
+Lexington Fayette 37.78 85.42
+Lincoln 40.99 95.86
+Little Rock 34.56 91.46
+Long Beach 32.95 117.77
+Los Angeles 34.56 118.7
+Louisville 37.78 85.42
+Lowell 42.59 72.0
+Lubbock 32.95 102.45
+Madison 42.59 89.45
+Manchester 42.59 72.0
+Memphis 34.56 89.51
+Mesa 32.95 112.02
+Mesquite 32.95 96.7
+Metairie 29.74 90.46
+Miami 26.52 80.6
+Milwaukee 42.59 87.27
+Minneapolis 45.81 93.46
+Miramar 26.52 80.6
+Mobile 31.35 88.59
+Modesto 37.78 120.0
+Montgomery 32.95 87.13
+Moreno Valley 34.56 116.76
+Naperville 40.99 87.34
+Nashville 36.17 87.51
+New Haven 40.99 72.43
+New Orleans 29.74 90.46
+New York 40.99 74.56
+Newark 40.99 74.56
+Newport News 37.78 77.29
+Nogales 31.35 111.2
+Norfolk 36.17 75.58
+Norman 34.56 97.3
+North Las Vegas 36.17 115.36
+Norwalk 34.56 118.7
+Nuevo Laredo 28.13 99.09
+Oakland 37.78 122.03
+Oceanside 32.95 117.77
+Oklahoma City 36.17 97.46
+Olathe 39.38 95.72
+Omaha 40.99 95.86
+Ontario 34.56 116.76
+Orange 32.95 117.77
+Orlando 28.13 80.91
+Overland Park 39.38 93.64
+Oxnard 34.56 118.7
+Palmdale 34.56 118.7
+Paradise 36.17 115.36
+Pasadena 29.74 96.0
+Paterson 40.99 74.56
+Pembroke Pines 26.52 80.6
+Peoria 32.95 112.02
+Philadelphia 39.38 74.91
+Phoenix 32.95 112.02
+Pittsburgh 40.99 80.95
+Plano 32.95 96.7
+Pomona 34.56 118.7
+Port Saint Lucie 26.52 80.6
+Portland 45.81 123.46
+Providence 42.59 72.0
+Provo 39.38 112.37
+Pueblo 37.78 103.73
+Raleigh 36.17 79.56
+Rancho Cucamonga 34.56 116.76
+Reno 39.38 120.69
+Rialto 34.56 116.76
+Richardson 32.95 96.7
+Richmond 37.78 122.03
+Riverside 34.56 116.76
+Rochester 42.59 78.55
+Rockford 42.59 89.45
+Roseville 39.38 120.69
+Sacramento 37.78 122.03
+Saint Louis 39.38 89.48
+Saint Paul 45.81 93.46
+Saint Petersburg 28.13 82.73
+Salem 44.2 122.98
+Salinas 36.17 121.33
+Salt Lake City 40.99 112.9
+San Antonio 29.74 97.85
+San Bernardino 34.56 116.76
+San Diego 32.95 117.77
+San Francisco 37.78 122.03
+San Jose 37.78 122.03
+Santa Ana 32.95 117.77
+Santa Clara 37.78 122.03
+Santa Clarita 34.56 118.7
+Santa Rosa 37.78 122.03
+Savannah 31.35 81.05
+Scottsdale 32.95 112.02
+Seattle 47.42 121.97
+Shreveport 32.95 92.87
+Simi Valley 34.56 118.7
+Sioux Falls 44.2 96.15
+South Bend 40.99 85.21
+Spokane 47.42 117.24
+Spring Valley 36.17 115.36
+Springfield 37.78 93.56
+Stamford 40.99 74.56
+Sterling Heights 42.59 82.91
+Stockton 37.78 122.03
+Sunnyvale 37.78 122.03
+Sunrise Manor 36.17 115.36
+Syracuse 42.59 76.36
+Tacoma 47.42 121.97
+Tallahassee 29.74 84.92
+Tampa 28.13 82.73
+Tempe 32.95 112.02
+Thornton 39.38 104.05
+Thousand Oaks 34.56 118.7
+Toledo 40.99 83.08
+Toms River 39.38 74.91
+Topeka 39.38 95.72
+Torrance 34.56 118.7
+Tucson 31.35 111.2
+Tulsa 36.17 95.47
+Vallejo 37.78 122.03
+Vancouver 45.81 123.46
+Virginia Beach 36.17 75.58
+Visalia 36.17 119.34
+Waco 31.35 98.01
+Warren 42.59 82.91
+Washington 39.38 76.99
+Waterbury 40.99 72.43
+West Covina 34.56 118.7
+West Jordan 40.99 112.9
+West Valley City 40.99 112.9
+Westminster 39.38 104.05
+Wichita 37.78 97.63
+Wichita Falls 34.56 99.24
+Windsor 42.59 82.91
+Winston Salem 36.17 79.56
+Worcester 42.59 72.0
+Yonkers 40.99 74.56
