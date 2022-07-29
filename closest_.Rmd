@@ -1,0 +1,11 @@
+```{r}
+long <-c(1,2.6,3.4,4.3,5)
+closest<-function(long,num){
+long[which(abs(long-num)==min(abs(long-num)))] }
+closest(long, 4.5)
+
+lat <-c(1,2.6,3.4,4.3,5)
+closest<-function(lat,num){
+lat[which(abs(lat-num)==min(abs(lat-num)))] }
+closest(lat, 4.5)
+```
