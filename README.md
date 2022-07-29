@@ -11,7 +11,7 @@
 <br /><br />
 Average temp - https://www.kaggle.com/datasets/berkeleyearth/climate-change-earth-surface-temperature-data<br />
 Rainfall - https://www.kaggle.com/datasets/iamkevin/united-states-rainfall<br />
-T20 crops - <br />
+T20 crops - https://docs.google.com/spreadsheets/d/1a8WEfE5z6-F_mhH7hbwHK7N6FHGOjhcSWxMcBJ8oqX4/edit#gid=0<br />
 
 <br />≿————-　❈　————-≾<br /><br />
 <b/>4.) Contributions</b>
